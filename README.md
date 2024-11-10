@@ -2,7 +2,8 @@
 
 ## About Me
 
-![AI in Software Development](assets/img/headshot.webp)
+![My Headshot](assets/img/headshot.webp)
+
 
 I'm Christopher Gutierrez, a data scientist and engineer specializing in building scalable, data-driven solutions for startups. From the early days of LinkedIn (500 employees) and Airbnb (200 employees), I’ve contributed as an individual contributor, architect, and leader. My expertise spans data science, engineering, and infrastructure development.
  
