@@ -10,7 +10,7 @@ I'm Christopher Gutierrez, a data scientist and engineer specializing in buildin
  
 I’ve led projects, built teams, and delivered high-impact results. Whether you're a startup or a growing company, I bring a unique perspective shaped by my diverse roles as an IC, architect, and manager.
 
-### [Experience] (posts/experience.md).
+### [Experience](posts/experience.md).
 
 ### [My Demos](posts/demos.md)
 
