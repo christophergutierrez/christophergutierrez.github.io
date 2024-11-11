@@ -10,7 +10,13 @@ I'm Christopher Gutierrez, a data scientist and engineer specializing in buildin
  
 I’ve led projects, built teams, and delivered high-impact results. Whether you're a startup or a growing company, I bring a unique perspective shaped by my diverse roles as an IC, architect, and manager.
 
-## AI in Software Development
+### Experience
+
+An overview of my [experience](posts/experience.md).
+
+## Blog Posts
+
+### AI in Software Development
 
 [![AI in Software Development](assets/img/AI_in_Software_Development.webp)](posts/AI_in_Software_Development.html) | [This post describes my experience using AI for development.](posts/AI_in_Software_Development.md)
 
