@@ -8,7 +8,7 @@ Small companies face a critical inflection point with data: they need enterprise
    - Build quality checks into data ingestion
    - Maintain original data copies
    - Create clear data lineage
-   Learn more about implementing: [Data Quality and Governance](./DataQualityAndGovernance.md)
+   Learn more about implementing: [Data Quality and Governance](./DataQualityAndGovernance.html)
 
 2. **Scalable Architecture**
    - Use the Medallion Architecture (Bronze/Silver/Gold layers)
