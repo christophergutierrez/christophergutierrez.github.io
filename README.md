@@ -20,4 +20,4 @@ I’ve led projects, built teams, and delivered high-impact results. Whether you
 ### AI in Software Development
 
 [![AI in Software Development](assets/img/AI_in_Software_Development.webp)](posts/AI_in_Software_Development.html) | [This post describes my experience using AI for development.](posts/AI_in_Software_Development.md)
-
+[![AI in Software Development](assets/img/AI_in_Software_Development.webp)](posts/ModernDataArchitecture.html) | [This provides an overview of several other blog posts.](posts/ModernDataArchitecture.md)
