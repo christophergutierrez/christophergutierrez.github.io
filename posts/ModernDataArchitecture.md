@@ -8,18 +8,21 @@ Small companies face a critical inflection point with data: they need enterprise
    - Build quality checks into data ingestion
    - Maintain original data copies
    - Create clear data lineage
+
    Learn more about implementing: [Data Quality and Governance](./DataQualityAndGovernance.html)
 
 2. **Scalable Architecture**
    - Use the Medallion Architecture (Bronze/Silver/Gold layers)
    - Separate sensitive data early
    - Enable incremental processing
+
    Dive deep into: [Architecture Implementation of Data Platform](./TBD.md)
 
 3. **Right-Sized Implementation**
    - Balance automation with manual processes
    - Choose appropriate tools for company size
    - Build for current needs while enabling future growth
+
    Explore: [Tool Selection and Implementation](./TBD.md)
 
 ## Key Components
@@ -29,16 +32,19 @@ Small companies face a critical inflection point with data: they need enterprise
 - Balance technical debt against delivery speed
 - BI vs Pipeline developers
 - Use contractors strategically
+
 Learn more about: [Building Effective Data Teams](./TBD.md)
 
 ### Development Approach
 - Start with MVPs
 - Focus on quick wins
 - Build incremental value
+
 Explore: [The MVP Approach to Data Platforms](./TBD.md)
 
 ### Assessing Current State
 - Data Warehouse or RDBMS
 - Business Logic
 - Reporting System
+
 Discover: [Assessing The Existing System](./TBD.md)
