@@ -16,7 +16,7 @@ Small companies face a critical inflection point with data: they need enterprise
    - Separate sensitive data early
    - Enable incremental processing
 
-   Dive deep into: [Architecture of Data Platform](./TBD.md)
+   Dive deep into: [Architecture of Data Platform](./ArchitectureofDataPlatform.html)
 
 3. **Right-Sized Implementation**
    - Balance automation with manual processes
