@@ -17,23 +17,10 @@ I have a website that demonstates a few tools. More importantly, I built it with
 
 ### AI in Software Development
 
-[![AI in Software Development](assets/img/AI_in_Software_Development.png)](posts/AI_in_Software_Development.html) | [This post describes my experience using AI for development.](posts/AI_in_Software_Development.md)
-[![Modern Data Architecture](assets/img/ModernDataArchitecture.png)](posts/ModernDataArchitecture.html) | [This provides an overview of several other blog posts.](posts/ModernDataArchitecture.md)
-[![Data Quality And Governance](assets/img/DataQualityAndGovernance.png)](posts/DataQualityAndGovernance.html) | [A detailed look into acheiving high data quality and meeting governance requirements.](posts/DataQualityAndGovernance.md)
-[![Architecture of Data Platform](assets/img/ArchitectureofDataPlatform.png)](posts/ArchitectureofDataPlatform.html) | [A detailed look into the Medalion Architecture and more.](posts/ArchitectureofDataPlatform.md)
+| **Image**                                                                                             | **Description**                                                                                                  |
+|-------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
+| [![AI in Software Development](assets/img/AI_in_Software_Development.png)](posts/AI_in_Software_Development.html) | [This post describes my experience using AI for development.](posts/AI_in_Software_Development.md)              |
+| [![Modern Data Architecture](assets/img/ModernDataArchitecture.png)](posts/ModernDataArchitecture.html)           | [This provides an overview of several other blog posts.](posts/ModernDataArchitecture.md)                       |
+| [![Data Quality And Governance](assets/img/DataQualityAndGovernance.png)](posts/DataQualityAndGovernance.html)   | [A detailed look into acheiving high data quality and meeting governance requirements.](posts/DataQualityAndGovernance.md) |
+| [![Architecture of Data Platform](assets/img/ArchitectureofDataPlatform.png)](posts/ArchitectureofDataPlatform.html) | [A detailed look into the Medalion Architecture and more.](posts/ArchitectureofDataPlatform.md)                 |
 
-## Blog Posts
-
-### AI in Software Development
-
-- [![AI in Software Development](assets/img/AI_in_Software_Development.png)](posts/AI_in_Software_Development.html) 
-  **[This post describes my experience using AI for development.](posts/AI_in_Software_Development.md)**
-
-- [![Modern Data Architecture](assets/img/ModernDataArchitecture.png)](posts/ModernDataArchitecture.html)
-  **[This provides an overview of several other blog posts.](posts/ModernDataArchitecture.md)**
-
-  - [![Data Quality And Governance](assets/img/DataQualityAndGovernance.png)](posts/DataQualityAndGovernance.html)
-    **[A detailed look into achieving high data quality and meeting governance requirements.](posts/DataQualityAndGovernance.md)**
-
-  - [![Architecture of Data Platform](assets/img/ArchitectureofDataPlatform.png)](posts/ArchitectureofDataPlatform.html)
-    **[A detailed look into the Medallion Architecture and more.](posts/ArchitectureofDataPlatform.md)**
