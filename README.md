@@ -10,7 +10,7 @@ I’ve led projects, built teams, and delivered high-impact results. Whether you
 A summary of my experience and the projects I've worked on. For more details, check out my [LinkedIn profile](https://www.linkedin.com/in/christophergutierrez/).
 
 ### [My Demos](posts/demos.md)
-I have a website that demonstates a few tools. More importantly, I built it with an AI assistant and describe the process in a blog post.
+I have a website that demonstrates a few tools. More importantly, I built it with an AI assistant and described the process in a blog post.
 
 
 ## Blog Posts
@@ -22,6 +22,6 @@ I have a website that demonstates a few tools. More importantly, I built it with
 | [![AI in Software Development](assets/img/AI_in_Software_Development.png)](posts/AI_in_Software_Development.html)    | [AI in Software Development. This post describes my experience using AI for development.](posts/AI_in_Software_Development.md)                     |
 | | |
 | [![Modern Data Architecture](assets/img/ModernDataArchitecture.png)](posts/ModernDataArchitecture.html)              | [Modern Data Architecture. This provides an overview of several other blog posts.](posts/ModernDataArchitecture.md)                              |
-| | The following six blogs going into the details of the above blog. There are sometimes redundant because each is meant to stand alone.|
+| | The following six blogs go into the details of the above blog. They are sometimes redundant because each is meant to stand alone.|
 | [![Data Quality And Governance](assets/img/DataQualityAndGovernance.png)](posts/DataQualityAndGovernance.html)       | [Data Quality and Governance. A detailed look into acheiving high data quality and meeting governance requirements.](posts/DataQualityAndGovernance.md) |
 | [![Architecture of Data Platform](assets/img/ArchitectureofDataPlatform.png)](posts/ArchitectureofDataPlatform.html) | [Architecture of Data Platform. A detailed look into the Medalion Architecture and more.](posts/ArchitectureofDataPlatform.md)                        |
