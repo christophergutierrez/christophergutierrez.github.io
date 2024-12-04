@@ -15,13 +15,14 @@ I have a website that demonstrates a few tools. More importantly, I built it wit
 
 ## Blog Posts
 
-### AI in Software Development
-
 |                                                                                                                      |                                                                                                                        |
 |----------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
-| [![AI in Software Development](assets/img/AI_in_Software_Development.png)](posts/AI_in_Software_Development.html)    | [AI in Software Development. This post describes my experience using AI for development.](posts/AI_in_Software_Development.md)                     |
-| | |
-| [![Modern Data Architecture](assets/img/ModernDataArchitecture.png)](posts/ModernDataArchitecture.html)              | [Modern Data Architecture. This provides an overview of several other blog posts.](posts/ModernDataArchitecture.md)                              |
-| | The following six blogs go into the details of the above blog. They are sometimes redundant because each is meant to stand alone.|
+|                                                                                                                      |                                                                                                                        |
+| [![The Politics Of AI](assets/img/ThePoliticsOfAI.png)](posts/ThePoliticsOfAI.html)                                  | [This posts includes different LLMs results from political quizzes](posts/ThePoliticsOfAI.md)                          |
+|                                                                                                                      |                                                                                                                        |
+| [![AI in Software Development](assets/img/AI_in_Software_Development.png)](posts/AI_in_Software_Development.html)    | [AI in Software Development. This post describes my experience using AI for development.](posts/AI_in_Software_Development.md) |
+|                                                                                                                      |                                                                                                                        |
+| [![Modern Data Architecture](assets/img/ModernDataArchitecture.png)](posts/ModernDataArchitecture.html)              | [Modern Data Architecture. This provides an overview of several other blog posts.](posts/ModernDataArchitecture.md)    |
+|                                                                                                                      | The following six blogs go into the details of the above blog. They are sometimes redundant because each is meant to stand alone.|
 | [![Data Quality And Governance](assets/img/DataQualityAndGovernance.png)](posts/DataQualityAndGovernance.html)       | [Data Quality and Governance. A detailed look into acheiving high data quality and meeting governance requirements.](posts/DataQualityAndGovernance.md) |
-| [![Architecture of Data Platform](assets/img/ArchitectureofDataPlatform.png)](posts/ArchitectureofDataPlatform.html) | [Architecture of Data Platform. A detailed look into the Medalion Architecture and more.](posts/ArchitectureofDataPlatform.md)                        |
+| [![Architecture of Data Platform](assets/img/ArchitectureofDataPlatform.png)](posts/ArchitectureofDataPlatform.html) | [Architecture of Data Platform. A detailed look into the Medalion Architecture and more.](posts/ArchitectureofDataPlatform.md)                          |
