@@ -7,22 +7,19 @@ I'm Christopher Gutierrez, a data scientist and engineer specializing in buildin
 I’ve led projects, built teams, and delivered high-impact results. Whether you're a startup or a growing company, I bring a unique perspective shaped by my diverse roles as an IC, architect, and manager.
  
 ### [Experience](posts/experience.md)
+
 A summary of my experience and the projects I've worked on. For more details, check out my [LinkedIn profile](https://www.linkedin.com/in/christophergutierrez/).
 
 ### [My Demos](posts/demos.md)
+
 I have a website that demonstrates a few tools. More importantly, I built it with an AI assistant and described the process in a blog post.
 
 
 ## Blog Posts
 
-|                                                                                                                      |                                                                                                                        |
-|----------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
-|                                                                                                                      |                                                                                                                        |
-| [![The Politics Of AI](assets/img/ThePoliticsOfAI.png)](posts/ThePoliticsOfAI.html)                                  | [This posts includes different LLMs results from political quizzes](posts/ThePoliticsOfAI.md)                          |
-|                                                                                                                      |                                                                                                                        |
-| [![AI in Software Development](assets/img/AI_in_Software_Development.png)](posts/AI_in_Software_Development.html)    | [AI in Software Development. This post describes my experience using AI for development.](posts/AI_in_Software_Development.md) |
-|                                                                                                                      |                                                                                                                        |
-| [![Modern Data Architecture](assets/img/ModernDataArchitecture.png)](posts/ModernDataArchitecture.html)              | [Modern Data Architecture. This provides an overview of several other blog posts.](posts/ModernDataArchitecture.md)    |
-|                                                                                                                      | The following six blogs go into the details of the above blog. They are sometimes redundant because each is meant to stand alone.|
-| [![Data Quality And Governance](assets/img/DataQualityAndGovernance.png)](posts/DataQualityAndGovernance.html)       | [Data Quality and Governance. A detailed look into acheiving high data quality and meeting governance requirements.](posts/DataQualityAndGovernance.md) |
-| [![Architecture of Data Platform](assets/img/ArchitectureofDataPlatform.png)](posts/ArchitectureofDataPlatform.html) | [Architecture of Data Platform. A detailed look into the Medalion Architecture and more.](posts/ArchitectureofDataPlatform.md)                          |
+* [The Politics Of AI](posts/ThePoliticsOfAI.md) This posts includes results from political quizzes, from three LLMs.                                                
+* [AI in Software Development](posts/AI_in_Software_Development.md) This post describes my experience using AI for development.
+* [Modern Data Architecture](posts/ModernDataArchitecture.md)  This provides an overview of several other blog posts.                     
+    * [Data Quality And Governance](posts/DataQualityAndGovernance.md)  A detailed look into achieving high data quality and meeting governance requirements.
+    * [Architecture of Data Platform](posts/ArchitectureofDataPlatform.md)  A detailed look into the Medallion Architecture and more.
+
