@@ -1,4 +1,4 @@
-# The Politics of Some AI: A sampling of political views of ChatGPT and Claude
+# The Politics of AI: A sampling of political views of ChatGPT and Claude
 
 I put two political quizzes to three different LLMs and recorded the results. I had two objectives. First, do the different LLMs agree? Second, if they disagreed, what were the disagreements?
 
